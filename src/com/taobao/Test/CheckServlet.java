@@ -14,7 +14,8 @@ import java.io.PrintWriter;
  * Time: обнГ5:01
  * To change this template use File | Settings | File Templates.
  */
-public class CheckServlet extends HttpServlet {
+public class
+        CheckServlet extends HttpServlet {
     public void doGet(HttpServletRequest request,HttpServletResponse response)
             throws ServletException,IOException {
         this.doPost(request,response);
