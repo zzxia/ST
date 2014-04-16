@@ -6,7 +6,7 @@
            version="2.5">
           <servlet>
               <servlet-name>CheckServlet</servlet-name>
-              <servlet-class>com.taobao.Test.CheckServlet</servlet-class>
+              <servlet-class>com.taobao.ak.CheckServlet</servlet-class>
           </servlet>
           <servlet-mapping>
                <servlet-name>CheckServlet</servlet-name>
